@@ -8,4 +8,5 @@ WORKDIR /spree
 ADD . /spree
 RUN bundle install
 RUN bundle exec rake sandbox
+EXPOSE 3000
 CMD ["sh", "docker-entrypoint.sh"]
