@@ -5,4 +5,5 @@ deployments:
         vm_size:
           1GB
         port_forwarding:
-          80:3000
+          80:3300
+        ready_wait: 20
