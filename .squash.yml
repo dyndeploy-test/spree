@@ -1,6 +1,0 @@
-deployments:
-  default:
-        filename:
-          ./Dockerfile
-        vm_size:
-          1GB
