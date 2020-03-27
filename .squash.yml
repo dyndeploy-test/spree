@@ -6,3 +6,4 @@ deployments:
           1GB
         port_forwarding:
           80:3300
+        ready_wait: 20
