@@ -2,6 +2,8 @@
 
 <a href="https://guides.spreecommerce.org/release_notes/4_1_0.html"><img src="https://spreecommerce.org/wp-content/uploads/2020/03/spree-4_1-mobile-first-customizable-ux-1400x800-0_20.png" /></a>
 
+TEST
+
 * Join our Slack at [slack.spreecommerce.org](http://slack.spreecommerce.org/)
 * [Contact us](https://spreecommerce.org/contact/) to start a new project or get tech support
 * [DEMO](https://demo.spreecommerce.org/) of the new Spree UX introduced in Spree 4.1.0
